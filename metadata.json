@@ -1,0 +1,6 @@
+{
+  "name": "JobHub",
+  "description": "Comprehensive Job Board & Career Tracker: discover curated opportunities, filter by tech stack and remote status, track applications, and manage bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
